@@ -6,9 +6,9 @@ C# .Net
 RestSharp(for API service)
 
 Pre-requisite
-Need Visual Studio 2017 or above
+Visual Studio 2017 or above version
 
 #Setup
 Clone/Download the project into your local machine
-Open the project in Visual Studio 
-Build and run the code
+Open the solution in VS.
+Run the code.
